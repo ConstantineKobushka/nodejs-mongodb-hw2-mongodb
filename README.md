@@ -1,1 +1,1 @@
-# nodejs-hw-mongodb
+# nodejs-mongodb hw2-mongodb
